@@ -17,5 +17,11 @@
 ## Quick Start
 
 ## References and Resources
+Here I will be listing the resources used when building the project, whether they be online tutorials, articles, or codebases from github.
+
+**Inside Airbnb** http://insideairbnb.com/tokyo/
+
+- Source for all of the data used in the notebook
+
 
 ## Copyright and License
