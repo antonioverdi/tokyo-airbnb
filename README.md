@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://github.com/antonioverdi/chicken-detector/blob/master/images/chickenemoji.png" width="200"/>
+    <img src="https://github.com/antonioverdi/tokyo-airbnb/blob/main/logo.png" width="350"/>
     <br>
 <p>
 <h1 align="center">
